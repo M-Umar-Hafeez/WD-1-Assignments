@@ -1,0 +1,27 @@
+div.header {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+}
+div.categories {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+}
+div.Mobile {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+}
+div.ftr {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+div.view {
+    text-align: right;
+}
+div.img {
+    margin-left: 20px;
+}
